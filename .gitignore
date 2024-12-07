@@ -1,0 +1,6 @@
+__pyache__/
+.pytest_cache/
+.vscode/
+venv/
+reviews.html
+sub_reviews.html
